@@ -1,0 +1,15 @@
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\bin\Debug\net6.0\Dmorrison_Assignment3.exe
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\bin\Debug\net6.0\Dmorrison_Assignment3.deps.json
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\bin\Debug\net6.0\Dmorrison_Assignment3.runtimeconfig.json
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\bin\Debug\net6.0\Dmorrison_Assignment3.dll
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\bin\Debug\net6.0\Dmorrison_Assignment3.pdb
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\Dmorrison_Assignment3.csproj.AssemblyReference.cache
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\Dmorrison_Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\Dmorrison_Assignment3.AssemblyInfoInputs.cache
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\Dmorrison_Assignment3.AssemblyInfo.cs
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\Dmorrison_Assignment3.csproj.CoreCompileInputs.cache
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\Dmorrison_Assignment3.dll
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\refint\Dmorrison_Assignment3.dll
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\Dmorrison_Assignment3.pdb
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\Dmorrison_Assignment3.genruntimeconfig.cache
+C:\Darmor\School\User Interfaces\Dmorrison_Assignment3\obj\Debug\net6.0\ref\Dmorrison_Assignment3.dll

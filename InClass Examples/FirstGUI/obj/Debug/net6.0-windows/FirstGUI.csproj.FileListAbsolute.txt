@@ -1,0 +1,17 @@
+C:\Darmor\School\User Interfaces\FirstGUI\bin\Debug\net6.0-windows\FirstGUI.exe
+C:\Darmor\School\User Interfaces\FirstGUI\bin\Debug\net6.0-windows\FirstGUI.deps.json
+C:\Darmor\School\User Interfaces\FirstGUI\bin\Debug\net6.0-windows\FirstGUI.runtimeconfig.json
+C:\Darmor\School\User Interfaces\FirstGUI\bin\Debug\net6.0-windows\FirstGUI.dll
+C:\Darmor\School\User Interfaces\FirstGUI\bin\Debug\net6.0-windows\FirstGUI.pdb
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.csproj.AssemblyReference.cache
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.Form1.resources
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.csproj.GenerateResource.cache
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.AssemblyInfoInputs.cache
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.AssemblyInfo.cs
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.csproj.CoreCompileInputs.cache
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.dll
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\refint\FirstGUI.dll
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.pdb
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\FirstGUI.genruntimeconfig.cache
+C:\Darmor\School\User Interfaces\FirstGUI\obj\Debug\net6.0-windows\ref\FirstGUI.dll

@@ -1,0 +1,17 @@
+C:\Darmor\School\User Interfaces\textboxDialog\bin\Debug\net6.0-windows\textboxDialog.exe
+C:\Darmor\School\User Interfaces\textboxDialog\bin\Debug\net6.0-windows\textboxDialog.deps.json
+C:\Darmor\School\User Interfaces\textboxDialog\bin\Debug\net6.0-windows\textboxDialog.runtimeconfig.json
+C:\Darmor\School\User Interfaces\textboxDialog\bin\Debug\net6.0-windows\textboxDialog.dll
+C:\Darmor\School\User Interfaces\textboxDialog\bin\Debug\net6.0-windows\textboxDialog.pdb
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.csproj.AssemblyReference.cache
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.Form1.resources
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.csproj.GenerateResource.cache
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.AssemblyInfoInputs.cache
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.AssemblyInfo.cs
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.csproj.CoreCompileInputs.cache
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.dll
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\refint\textboxDialog.dll
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.pdb
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\textboxDialog.genruntimeconfig.cache
+C:\Darmor\School\User Interfaces\textboxDialog\obj\Debug\net6.0-windows\ref\textboxDialog.dll

@@ -1,0 +1,15 @@
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\FirstandLastName.exe
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\FirstandLastName.deps.json
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\FirstandLastName.runtimeconfig.json
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\FirstandLastName.dll
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\FirstandLastName.pdb
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\FirstandLastName.csproj.AssemblyReference.cache
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\FirstandLastName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\FirstandLastName.AssemblyInfoInputs.cache
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\FirstandLastName.AssemblyInfo.cs
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\FirstandLastName.csproj.CoreCompileInputs.cache
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\FirstandLastName.dll
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\FirstandLastName.dll
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\FirstandLastName.pdb
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\FirstandLastName.genruntimeconfig.cache
+C:\Darmor\School\User Interfaces\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\FirstandLastName.dll

@@ -1,0 +1,17 @@
+C:\Darmor\School\User Interfaces\TestProject221101\bin\Debug\net6.0-windows\TestProject221101.exe
+C:\Darmor\School\User Interfaces\TestProject221101\bin\Debug\net6.0-windows\TestProject221101.deps.json
+C:\Darmor\School\User Interfaces\TestProject221101\bin\Debug\net6.0-windows\TestProject221101.runtimeconfig.json
+C:\Darmor\School\User Interfaces\TestProject221101\bin\Debug\net6.0-windows\TestProject221101.dll
+C:\Darmor\School\User Interfaces\TestProject221101\bin\Debug\net6.0-windows\TestProject221101.pdb
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.csproj.AssemblyReference.cache
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.Form1.resources
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.csproj.GenerateResource.cache
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.AssemblyInfoInputs.cache
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.AssemblyInfo.cs
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.csproj.CoreCompileInputs.cache
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.dll
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\refint\TestProject221101.dll
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.pdb
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\TestProject221101.genruntimeconfig.cache
+C:\Darmor\School\User Interfaces\TestProject221101\obj\Debug\net6.0-windows\ref\TestProject221101.dll

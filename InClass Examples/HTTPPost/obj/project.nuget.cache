@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEmH20dANtK28W2iXA0RM/HhaoTIkuRv0lUKyAC7lVAL2OI4IeEguBoLbxRqwc0OCd5QR8nBQhFCBzmta07Www==",
+  "success": true,
+  "projectFilePath": "C:\\Darmor\\School\\User Interfaces\\HTTPPost\\HTTPPost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darren\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

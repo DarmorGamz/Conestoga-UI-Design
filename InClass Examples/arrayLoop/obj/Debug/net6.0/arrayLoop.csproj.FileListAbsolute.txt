@@ -1,0 +1,15 @@
+C:\Darmor\School\User Interfaces\arrayLoop\bin\Debug\net6.0\arrayLoop.exe
+C:\Darmor\School\User Interfaces\arrayLoop\bin\Debug\net6.0\arrayLoop.deps.json
+C:\Darmor\School\User Interfaces\arrayLoop\bin\Debug\net6.0\arrayLoop.runtimeconfig.json
+C:\Darmor\School\User Interfaces\arrayLoop\bin\Debug\net6.0\arrayLoop.dll
+C:\Darmor\School\User Interfaces\arrayLoop\bin\Debug\net6.0\arrayLoop.pdb
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\arrayLoop.csproj.AssemblyReference.cache
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\arrayLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\arrayLoop.AssemblyInfoInputs.cache
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\arrayLoop.AssemblyInfo.cs
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\arrayLoop.csproj.CoreCompileInputs.cache
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\arrayLoop.dll
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\refint\arrayLoop.dll
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\arrayLoop.pdb
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\arrayLoop.genruntimeconfig.cache
+C:\Darmor\School\User Interfaces\arrayLoop\obj\Debug\net6.0\ref\arrayLoop.dll

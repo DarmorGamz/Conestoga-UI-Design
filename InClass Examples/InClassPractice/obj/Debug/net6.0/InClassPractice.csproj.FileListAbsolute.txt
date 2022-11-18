@@ -1,0 +1,15 @@
+C:\Darmor\School\User Interfaces\InClassPractice\bin\Debug\net6.0\InClassPractice.exe
+C:\Darmor\School\User Interfaces\InClassPractice\bin\Debug\net6.0\InClassPractice.deps.json
+C:\Darmor\School\User Interfaces\InClassPractice\bin\Debug\net6.0\InClassPractice.runtimeconfig.json
+C:\Darmor\School\User Interfaces\InClassPractice\bin\Debug\net6.0\InClassPractice.dll
+C:\Darmor\School\User Interfaces\InClassPractice\bin\Debug\net6.0\InClassPractice.pdb
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\InClassPractice.csproj.AssemblyReference.cache
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\InClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\InClassPractice.AssemblyInfoInputs.cache
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\InClassPractice.AssemblyInfo.cs
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\InClassPractice.csproj.CoreCompileInputs.cache
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\InClassPractice.dll
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\refint\InClassPractice.dll
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\InClassPractice.pdb
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\InClassPractice.genruntimeconfig.cache
+C:\Darmor\School\User Interfaces\InClassPractice\obj\Debug\net6.0\ref\InClassPractice.dll

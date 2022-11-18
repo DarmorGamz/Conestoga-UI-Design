@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Today is: " + DateTime.Now.ToString("dddd"));

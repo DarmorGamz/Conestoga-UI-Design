@@ -1,0 +1,17 @@
+C:\Darmor\School\User Interfaces\HTTPPost\bin\Debug\net6.0\HTTPPost.exe
+C:\Darmor\School\User Interfaces\HTTPPost\bin\Debug\net6.0\HTTPPost.deps.json
+C:\Darmor\School\User Interfaces\HTTPPost\bin\Debug\net6.0\HTTPPost.runtimeconfig.json
+C:\Darmor\School\User Interfaces\HTTPPost\bin\Debug\net6.0\HTTPPost.dll
+C:\Darmor\School\User Interfaces\HTTPPost\bin\Debug\net6.0\HTTPPost.pdb
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.csproj.AssemblyReference.cache
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.AssemblyInfoInputs.cache
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.AssemblyInfo.cs
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.csproj.CoreCompileInputs.cache
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.dll
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\refint\HTTPPost.dll
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.pdb
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.genruntimeconfig.cache
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\ref\HTTPPost.dll
+C:\Darmor\School\User Interfaces\HTTPPost\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Darmor\School\User Interfaces\HTTPPost\obj\Debug\net6.0\HTTPPost.csproj.CopyComplete
